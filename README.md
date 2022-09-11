@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. It was very helpful to learn the process of making a git repository and webpage from scratch.
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. It was very helpful to learn the process of making a git repository and webpage from scratch. Redo.
 
 ## Installation
 
